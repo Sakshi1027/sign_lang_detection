@@ -63,8 +63,10 @@ For questions or suggestions, please open an issue or contact the author.
 ## 🖼️ Screenshots
 
 ### Single Image Prediction
-![Single Image Prediction](s1 (1).png)
+![Single Image Prediction](s1(1).png)
 
 ### Sequence of Frames Prediction
-![Sequence Prediction](s1 (2).png)
+![Sequence Prediction](s1(2).png)
+
+
 
