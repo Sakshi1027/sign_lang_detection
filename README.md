@@ -60,7 +60,11 @@ streamlit run app.py
 ## 📬 Feedback
 For questions or suggestions, please open an issue or contact the author.
 
-## 🎥 Demo
+## 🖼️ Screenshots
 
-[![Demo Video]](demo1.mp4)
+### Single Image Prediction
+![Single Image Prediction](s1(1).png)
+
+### Sequence of Frames Prediction
+![Sequence Prediction](s1(2).png)
 
