@@ -62,5 +62,5 @@ For questions or suggestions, please open an issue or contact the author.
 
 ## 🎥 Demo
 
-[Watch the demo](demo.mp4)
+[![Demo Video](.png)](demo.mp4)
 
