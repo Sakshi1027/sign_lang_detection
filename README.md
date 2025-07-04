@@ -44,7 +44,7 @@ streamlit run app.py
 ---
 
 ## 🧠 Model Information
-- The app uses a Keras model trained on 26 ASL letters (A–Z, except J & Z), plus 'del', 'nothing', and 'space'.
+- The app uses a Keras model trained on 26 ASL letters (A–Z, ), plus 'del'.
 - Model input: 64x64 grayscale images.
 - You can retrain or replace the model as needed.
 
@@ -56,17 +56,12 @@ streamlit run app.py
 
 ---
 
-## 🙏 Credits
-- Built with [Streamlit](https://streamlit.io/) and [TensorFlow/Keras](https://www.tensorflow.org/).
-- Model and UI by [Your Name].
-
----
 
 ## 📬 Feedback
 For questions or suggestions, please open an issue or contact the author.
 
 ## 🎥 Demo
 
-[![Watch the demo](demo-thumbnail.png)](demo.mp4)
+[![Watch the demo]](demo.mp4)
 
 > Click the image above to watch the demo video. 
